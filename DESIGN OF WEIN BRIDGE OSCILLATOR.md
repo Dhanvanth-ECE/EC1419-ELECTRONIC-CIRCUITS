@@ -17,6 +17,9 @@
 
 ## Graph
 
+<img width="1920" height="1080" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/1db22625-cca1-44f4-9668-fe4c86ec565a" />
+
+
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
 
 Practical frequency of Oscillation =
