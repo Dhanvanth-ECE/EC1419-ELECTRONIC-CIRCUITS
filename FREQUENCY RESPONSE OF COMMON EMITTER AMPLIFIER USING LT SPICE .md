@@ -28,6 +28,9 @@
 
 ## Graph
 
+<img width="1920" height="1080" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/70ed275e-1d2a-46b5-b406-377e5804037e" />
+
+
 
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
